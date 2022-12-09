@@ -35,4 +35,3 @@ streamlit.dataframe(fruityvice_normalized)
 
 import snowflake.connector
 
-/home/appuser/venv/bin/python -m pip install --upgrade pip
