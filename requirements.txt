@@ -1,7 +1,0 @@
-#requirements.txt
-
-pip install --upgrade streamlit
-
-snowflake-connector-python
-
-import snowflake.connector
