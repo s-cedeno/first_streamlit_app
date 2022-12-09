@@ -2,4 +2,4 @@
 
 snowflake-connector-python[pandas]
  
--m pip install --upgrade pip
+
