@@ -43,6 +43,7 @@ try:
   
       
 streamlit.stop()
+
 except URLError as e: 
     streamlit.error()
 
